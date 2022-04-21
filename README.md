@@ -3,10 +3,10 @@
 
 - 🔬 Physics , Quantum physics , Rocketry
 - ⚙️ 
-
+-
 
   👀 Yep , i' m really into all this stuff
-
+-
 - 🖥️ 𝕍𝕚𝕤𝕦𝕒𝕝 𝕊𝕥𝕦𝕕𝕚𝕠
                     ✴️ C++
                     VB.Net
