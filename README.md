@@ -1,14 +1,14 @@
 
 - 👋 Hi, my name's Alessandro
 
-> 🔬 Physics , Quantum physics
->
+> 📲 Desktop Apps and tools , Websites , Arduino scripts
 > 
+> > 🔬 Physics , Quantum physics
 >
-> ⚙️ Engineering , Rocketry
+> ⚙️ Engineering , Electronics , Rocketry
 
 
-- 👀 Pure technical subjects
+- 👀 Pure love for technical subjects
 
 - 🖥️ 𝕍𝕚𝕤𝕦𝕒𝕝 𝕊𝕥𝕦𝕕𝕚𝕠
 >                   ✴️ C++
