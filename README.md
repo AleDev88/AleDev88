@@ -21,7 +21,7 @@
 >                   🖊️ CSS
 
 ___
-- 💞️ Looking for participants in Science / Technology projects
+- 💞️ Looking for participants in Science / Technology projects or someone to socialize with
 
 > 📫 You can contact me at alemenec865@gmail.com
 > 
