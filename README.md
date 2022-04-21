@@ -3,7 +3,7 @@
 
 > 📲 Desktop Apps and tools , Websites , Arduino scripts
 > 
-> > 🔬 Physics , Quantum physics
+> 🔬 Physics , Quantum physics
 >
 > ⚙️ Engineering , Electronics , Rocketry
 
