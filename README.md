@@ -26,7 +26,7 @@ ___
  - *NID (Intelligence and Defense) Private Server Infrastructure*
  - *NID Active Missilistic System*
  
- - *Cryogenic System for small Radiotelescope*
+ - *Cryogenic System for homemade Radiotelescope*
  
 ___
 - 💞️ Looking for participants in Science / Technology projects or someone to socialize with
