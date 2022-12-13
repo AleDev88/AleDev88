@@ -26,6 +26,7 @@ ___
  - *NID (Intelligence and Defense) Private Server Infrastructure*
  - *NID Active Missilistic System*
  
+ - *Digital high speed System for homemade Radiotelescope*
  - *Cryogenic System for homemade Radiotelescope*
  
 ___
