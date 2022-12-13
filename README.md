@@ -12,12 +12,13 @@
 
 > - 🖥️ 𝕍𝕚𝕤𝕦𝕒𝕝 𝕊𝕥𝕦𝕕𝕚𝕠
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50">
->                   ✴️ C++
->                   🟪 C-Sharp
->                   🟦 VB.Net
->                   🐍 Python
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" width="50" height="50">
+
 >                   ⌨ Batch/CMD
->                   🟨 Javascript
 >                   
 ___
 # *Currently Working on ...*
