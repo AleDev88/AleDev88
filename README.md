@@ -26,11 +26,11 @@ ___
  - *NID (Intelligence and Defense) Private Server Infrastructure*
  - *NID Active Missilistic System*
  
- - *Digital high speed System for homemade Radiotelescope*
+ - *Digital High Speed System for homemade Radiotelescope*
  - *Cryogenic System for homemade Radiotelescope*
  
 ___
-- 💞️ Looking for participants in Science / Technology projects or someone to socialize with
+- 💞️ Looking for participants in Science / Technology projects or someone just to socialize with
 
 > 📫 You can contact me at alemenec865@gmail.com
 > 
