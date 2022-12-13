@@ -18,7 +18,7 @@
 
 ## Platforms
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50" height="50">
 
 ___
 # *Currently Working on ...*
