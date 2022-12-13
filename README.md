@@ -1,7 +1,7 @@
 
 - 👋 Hi, my name's Alessandro
 
-> 📲 Desktop Apps and tools , Websites , Arduino scripts
+> 📲 Desktop Apps and tools , Hardware Systems
 > 
 > 🔬 Physics , Quantum physics
 >
