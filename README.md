@@ -19,14 +19,19 @@
 >                   🟨 Javascript
 >                   🌐 HTML
 >                   🖊️ CSS
+>                   
+___
+# *Currently Working on ...*
 
+ - *NID (Intelligence and Defense) Private Server Infrastructure*
+ - *NID Active Missilistic System*
+ 
+ - *Cryogenic System for small Radiotelescope*
+ 
 ___
 - 💞️ Looking for participants in Science / Technology projects or someone to socialize with
 
 > 📫 You can contact me at alemenec865@gmail.com
 > 
 > 📫 You can check my instagram account at www.instagram.com/ale_menec
-___
-# *Currently Working on ...*
 
- - *NID (Intelligence and Defense) Private Server Infrastructure*
