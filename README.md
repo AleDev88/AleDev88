@@ -10,7 +10,7 @@
 
 - 👀 Pure love for technical subjects
 
-# Visual Studio <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="30" height="30">
+## Visual Studio <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="30" height="30">
 
 
 
