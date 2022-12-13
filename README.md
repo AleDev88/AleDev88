@@ -11,7 +11,7 @@
 - 👀 Pure love for technical subjects
 
 > - 🖥️ 𝕍𝕚𝕤𝕦𝕒𝕝 𝕊𝕥𝕦𝕕𝕚𝕠
-> ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg =50x50)
 >                   ✴️ C++
 >                   🟪 C-Sharp
 >                   🟦 VB.Net
