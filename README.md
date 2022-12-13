@@ -13,12 +13,11 @@
 > - 🖥️ 𝕍𝕚𝕤𝕦𝕒𝕝 𝕊𝕥𝕦𝕕𝕚𝕠
 > 
 >                   ✴️ C++
+>                   🟪 C#
 >                   🟦 VB.Net
 >                   🐍 Python
 >                   ⌨ Batch/CMD
 >                   🟨 Javascript
->                   🌐 HTML
->                   🖊️ CSS
 >                   
 ___
 # *Currently Working on ...*
