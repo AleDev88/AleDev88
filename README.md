@@ -3,7 +3,7 @@
 
 > 📲 Desktop Apps and tools , Hardware Systems
 > 
-> 🔬 Physics , Quantum physics
+> 🔬 Physics
 >
 > ⚙️ Engineering , Electronics , Rocketry
 
