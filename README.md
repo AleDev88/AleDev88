@@ -1,11 +1,11 @@
 
 - 👋 Hi, my name's Alessandro
 
-> 📲 Desktop Apps and tools , Hardware Systems
+> 📲 Hardware Systems
 > 
 > 🔬 Physics
 >
-> ⚙️ Engineering , Electronics , Rocketry
+> ⚙️ Electronics , Rocketry
 
 
 - 👀 Pure love for technical subjects
