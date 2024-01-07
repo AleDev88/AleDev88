@@ -16,18 +16,18 @@
 ___
 # *Currently Working on ...*
 
-> *NID (Intelligence and Defense) Private Server Infrastructure*
-> 
-> *NID Active Missilistic System*
+> AI Server Infrastructure
 >
-> *Digital High Speed System for homemade Radiotelescope*
+> AL-Ion cell technology
+>
+> *Cryogenic C-Band receiver for Radioastronomy*
 > 
-> *Cryogenic System for homemade Radiotelescope*
- 
 ___
 - 💞️ Looking for participants in Science / Technology projects or someone just to socialize with
 
-> 📫 You can contact me at alemenec865@gmail.com
+> You can,
+> 📫 Contact me at alemenec865@gmail.com
+> 🎁 Donate at https://www.buymeacoffee.com/alessandromini . Thanks !😘
 > 
-> 📫 You can check my instagram account at www.instagram.com/ale_menec
+> 📫 Check my instagram account at www.instagram.com/ale_menec
 
