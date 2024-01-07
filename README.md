@@ -16,10 +16,8 @@
 ___
 # *Currently Working on ...*
 
-> AI Server Infrastructure
->
-> AL-Ion cell technology
->
+> *AI Server Infrastructure*
+> *AL-Ion cell technology*
 > *Cryogenic C-Band receiver for Radioastronomy*
 > 
 ___
