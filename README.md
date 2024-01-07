@@ -16,7 +16,7 @@
 ___
 # *Currently Working on ...*
 
-> *AI Server Infrastructure*
+> *A.I. Server Infrastructure*
 > 
 > *AL-Ion cell technology*
 > 
