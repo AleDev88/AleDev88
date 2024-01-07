@@ -1,7 +1,7 @@
 
 - 👋 Hi, my name's Alessandro
 
-> 📲 Embeeded Systems
+> 📲 Embedded Systems
 > 
 > 🔬 Physics
 >
