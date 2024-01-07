@@ -25,7 +25,7 @@ ___
 ___
 - 💞️ Looking for participants in Science / Technology projects or someone just to socialize with
 
-> You can,
+You can,
 > 📫 Contact me at alemenec865@gmail.com
 > 
 > 🎁 Donate at https://www.buymeacoffee.com/alessandromini . Thanks !😘
