@@ -17,9 +17,11 @@ ___
 # *Currently Working on ...*
 
 > *AI Server Infrastructure*
-> *AL-Ion cell technology*
-> *Cryogenic C-Band receiver for Radioastronomy*
 > 
+> *AL-Ion cell technology*
+> 
+> *Cryogenic C-Band receiver for Radioastronomy*
+
 ___
 - 💞️ Looking for participants in Science / Technology projects or someone just to socialize with
 
