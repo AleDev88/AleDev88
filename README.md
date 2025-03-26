@@ -27,8 +27,6 @@ ___
 
 - You can :
 > 📫 Contact me at alemenec865@gmail.com
-> 
-> 🎁 Donate at https://www.buymeacoffee.com/alessandromini . Thanks !😘
-> 
+>
 > 📫 Check my instagram account at www.instagram.com/ale_menec
 
